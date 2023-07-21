@@ -13,6 +13,10 @@ My Repl.it profile: https://replit.com/@Chronological
  * https://replit.com/@Chronological/Processes2#script.js
 ![image](https://github.com/samsquire/interesting-replits/assets/1983701/c9a44c8a-fe93-4056-b95b-d7f7b5d31a56)
 
+And graph rendrerer
+
+![image](https://github.com/samsquire/interesting-replits/assets/1983701/1bf06944-95de-4c82-bf13-f02efbce69b0)
+
 
 # interaction reader
 
